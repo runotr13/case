@@ -1,0 +1,19 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin: 0 auto;
+    cursor: pointer;
+}
+th,td,tr{
+    padding: 5px;
+    width: 25%;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+.orange{
+    background-color: orange;
+}
